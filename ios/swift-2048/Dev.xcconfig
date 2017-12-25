@@ -1,0 +1,11 @@
+//
+//  Dev.xcconfig
+//  swift-2048
+//
+//  Created by Danish on 24/12/2017.
+//  Copyright © 2017 Austin Zheng. All rights reserved.
+//
+
+#include "Pods/Target Support Files/Pods-swift-2048/Pods-swift-2048.debug.xcconfig"
+
+IP_ADDRESS = 1.2.3.4

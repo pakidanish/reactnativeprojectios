@@ -1,0 +1,6 @@
+framework module Pods_swift_2048 {
+  umbrella header "Pods-swift-2048-umbrella.h"
+
+  export *
+  module * { export * }
+}
