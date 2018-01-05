@@ -18,3 +18,5 @@ sed -i '' 's#<fishhook/fishhook.h>#\"fishhook.h\"#g' ./node_modules/react- nativ
 Dev.xcconfig
 
 include pod path to load all pod file.
+
+Production
